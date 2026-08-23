@@ -1,6 +1,6 @@
 ---
 name: aidp-db2
-description: Read or write IBM DB2 from an AIDP notebook through the AIDP `aidataplatform` Spark format handler. Use when the user mentions DB2, IBM Db2, LUW, or `type=DB2`.
+description: Read or write IBM DB2 from an AIDP notebook through the AIDP `aidataplatform` Spark format handler. Use when the user mentions DB2, IBM Db2, LUW, or `type=DB2`. Auth is host/port + database name + user/password.
 allowed-tools: Read, Write, Edit, Bash
 ---
 
