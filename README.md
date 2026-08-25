@@ -206,6 +206,7 @@ Notebooks covering generative AI, NLP, ML model training, and LLM-powered analyt
 | Sample | Description |
 |---|---|
 | [A2UI Component Gallery](ai/agent-hub/agent-samples/a2ui-component-gallery/README.md) | Demonstrate a code-first Agent Hub agent that negotiates A2UI v0.8 or v0.9 and renders schema-validated component previews with interactive actions. |
+| [Weekly Business Review Agent](ai/agent-hub/agent-samples/weekly-business-review/README.md) | Build a SQLTool-backed Agent Hub agent that analyzes recurring business metrics and renders interactive A2UI reviews with filters, charts, risks, and recommended actions. |
 
 #### Visual (No-Code) Agent Flows
 
